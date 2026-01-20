@@ -226,7 +226,7 @@ const App = () => {
             <div className="absolute top-0 right-0 p-8 opacity-20 group-hover:rotate-12 transition-transform"><Briefcase size={250} className="text-black" /></div>
             <h3 className="text-4xl md:text-6xl font-black mb-8 italic uppercase tracking-tighter text-black">Curriculum <br/> Vitae</h3>
             <p className="text-black/60 font-bold mb-12 max-w-sm mx-auto text-lg leading-relaxed">Téléchargez mon parcours à l'<b>ENSA Fès</b>.</p>
-            <a href="/cv_sara_echffani.pdf" download="cv_sara_echffani.pdf" className="inline-flex items-center gap-4 px-12 py-6 bg-black text-white font-black rounded-3xl hover:scale-105 transition-all shadow-2xl">
+            <a href="/cv-sara-echffani.pdf" download="cv-sara-echffani.pdf" className="inline-flex items-center gap-4 px-12 py-6 bg-black text-white font-black rounded-3xl hover:scale-105 transition-all shadow-2xl">
               DOWNLOAD CV <Download size={22} />
             </a>
           </motion.div>
